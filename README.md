@@ -41,3 +41,9 @@ Generates a personalized open-source philosophy statement based on user input.
 ### Step 1: Make scripts executable
 ```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh /var/log/syslog error
+./script5.sh
+
